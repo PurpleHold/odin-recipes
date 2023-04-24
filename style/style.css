@@ -1,0 +1,57 @@
+body {
+    background-color:rgb(31, 14, 51);
+    text-align: center;
+    padding-bottom: 100px;
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.dishlist {
+    font-size: 20px;
+    text-align: center;
+}
+
+.desc {
+    font-style: italic;
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 55px;
+    margin-top: 100px;
+}
+h5 {
+    font-size: 30px;
+    color: rgb(255, 181, 43);
+    letter-spacing: 2px;
+
+}
+
+ul, ol {
+    text-align: left;
+    letter-spacing: 1px;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    color: rgb(126, 229, 255);
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+a:hover {
+    color: #fff;
+    letter-spacing: 2px;
+    transition: all 0.1s ease-in-out;
+}
+
+ul li {
+    list-style: none;
+}
